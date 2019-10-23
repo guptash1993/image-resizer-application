@@ -1,0 +1,11 @@
+version: '2'
+services:
+  test:
+    image: cogent_app
+    build: .
+    command: npm run test
+  run:
+    image: cogent_app
+    command: node index.js 
+    ports:
+      - "3000:3000"
