@@ -6,7 +6,7 @@
   "dependencies": {
     "express": "^4.17.1",
     "jest": "^24.9.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "sharp": "^0.23.0",
     "worker-farm": "^1.7.0",
     "worker-threads": "^1.0.0"
