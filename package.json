@@ -4,7 +4,7 @@
   "description": "A service to generate image thumbnails",
   "main": "index.js",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "jest": "^24.9.0",
     "lodash": "^4.17.15",
     "sharp": "^0.23.0",
